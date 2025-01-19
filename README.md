@@ -2,7 +2,7 @@
 
 - I'm making a game that has a cute, annoying girl who likes blood <3
 
-![d5a797453605d89d09455e02238ace09](https://github.com/user-attachments/assets/152b6b4f-0bde-475b-b370-8fec2b932ce0)
+![Jenny Wakeman (XK-9) - #26](https://github.com/user-attachments/assets/fb841289-3231-4d59-b89d-2b148e77ac57)
 
 <h2>Programming Language</h2>
 
